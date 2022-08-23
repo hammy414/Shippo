@@ -1,0 +1,34 @@
+﻿SQL Questions
+
+
+Assume the database system being used is Postgres 9.6.
+
+
+1. Write a query to find the shipment record associated to transaction object_id
+‘618c313ed743ba2c7cdc3636’.
+
+
+SELECT  object_id FROM api_shipment WHERE object_ID is 618c313ed743ba2c7cdc3636
+
+
+2. Write a query to find the amount or amount_local the customer paid for a label with
+shipment object_id ‘618b1586fbabb3e56406d8d1’.
+
+
+SELECT amount, amount_local FROM api_rate
+Where object_id is 618b1586fbabb3e56406d8d1
+
+
+3. Write a query to find the total amount spent on labels by object_owner_id 123 created
+between 01/01/2021 and today
+
+
+SELECT 
+
+
+4. Write a query to find all transactions for object_owner_id 123 that had shipments with the
+following extra key value pair: { "signature_confirmation": "ADULT", ... } (a customer
+might have other misc keys in the extra object)
+
+
+SELECT
