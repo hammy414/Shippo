@@ -1,4 +1,4 @@
-![logo](https://goshippo.com/static-files/shippo-logo-green-web.png)
+![logo](https://www.shipbob.com/wp-content/uploads/2021/04/shippo_logo_200x200-1.png)
 # Shippo TSE Challange
 
 > Additional information or tagline
