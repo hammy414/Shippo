@@ -21,17 +21,6 @@ Here you should say what actually happens when you execute the code above.
 
 This project I created pulls from a private isolated token. What you need to do is to create a new python file in the same directory called "shippo_secrets". After that create a method on that new file called "test_api_key= "REPLACE_WITH_YOUR_KEY""
 
-## Developing
-
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
-
-```shell
-git clone https://github.com/hammy414/Luhn-Algorithm/import_string.py
-cd awesome-project/
-packagemanager install
-```
-
 ## Contributing
 
 If you'd like to contribute, please fork the repository and use a feature
