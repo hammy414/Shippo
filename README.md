@@ -1,10 +1,8 @@
 ![logo](https://www.shipbob.com/wp-content/uploads/2021/04/shippo_logo_200x200-1.png)
 # Shippo TSE Challange For Joshua Sternfeld
 
-> Additional information or tagline
-
-The shippo TSE challange for Joshua Sternfeld - TSE
-
+> The shippo TSE challange for Joshua Sternfeld - Technology Support Engineer
+> I had a lot of fun learning your platform! 
 ## Installing / Getting started
 
 Please notice that there is both a .docx file and the main function. The .docx file is for the SQL answers. 
