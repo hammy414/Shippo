@@ -7,7 +7,7 @@
 
 ## Information about challange (SQL)
 
-Please notice that there is a .txt file. The .txt file is for the SQL answers. 
+Please notice that there is a Shippo - Josh Sternfeld (SQL).txt file. The .txt file is for the SQL answers. 
 
 ## Installing / Getting started
 
