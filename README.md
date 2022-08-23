@@ -12,14 +12,15 @@ Please notice that there is both a .docx file and the main function. The .docx f
 ```shell
 git clone https://github.com/hammy414/shippo
 main.py start
-main.py "Will show you your shipment info. If you want to change package information, please edit the file to do so."
 ```
 
-Here you should say what actually happens when you execute the code above.
+The main.py file will show you your shipment info. If you want to change package information, please edit the file to do so. 
 
 ### Initial Configuration
 
-This project I created pulls from a private isolated token. What you need to do is to create a new python file in the same directory called "shippo_secrets". After that create a method on that new file called "test_api_key= "REPLACE_WITH_YOUR_KEY""
+This project I created pulls from a private isolated token. What you need to do is to create a new python file in the same directory called "shippo_secrets". After that create a method on that new file called "test_api_key= "REPLACE_WITH_YOUR_KEY"".
+
+I have included a blank shippo_secrets file for you to use a template. 
 
 ## Contributing
 
