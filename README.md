@@ -10,9 +10,9 @@ The shippo TSE challange for Joshua Sternfeld - TSE
 Please notice that there is both a .docx file and the main function. The .docx file is for the SQL answers. 
 
 ```shell
-packagemanager install awesome-project
-awesome-project start
-awesome-project "Do something!"  # prints "Nah."
+git clone https://github.com/hammy414/shippo
+main.py start
+main.py Will show you your shipment info. If you want to change package information, please edit the file to do so. 
 ```
 
 Here you should say what actually happens when you execute the code above.
