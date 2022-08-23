@@ -20,6 +20,8 @@ The main.py file will show you your shipment info. If you want to change package
 
 ### Initial Configuration
 
+In order to run shippo, you need to have the library installed. I recommend using pip to easily install that into your directory. Please see below link for the shippo library install. 
+
 This project I created pulls from a private isolated token. What you need to do is to create a new python file in the same directory called "shippo_secrets". After that create a method on that new file called "test_api_key= "REPLACE_WITH_YOUR_KEY"".
 
 I have included a blank shippo_secrets file for you to use a template. 
@@ -33,7 +35,7 @@ branch. Pull requests are warmly welcome.
 
 - Shippo API Call Overview: https://goshippo.com/docs/reference/py#overview
 - Shippo Into page for overview: https://goshippo.com/docs/intro/
-
+- Shippo Library Install: https://goshippo.com/docs/client-libraries/
 ## Licensing
 
 The code in this project is licensed under creative commons license.
