@@ -19,8 +19,7 @@ Here you should say what actually happens when you execute the code above.
 
 ### Initial Configuration
 
-Some projects require initial configuration (e.g. access tokens or keys, `npm i`).
-This is the section where you would document those requirements.
+This project I created pulls from a private isolated token. What you need to do is to create a new python file in the same directory called "shippo_secrets". After that create a method on that new file called "test_api_key= "REPLACE_WITH_YOUR_KEY""
 
 ## Developing
 
@@ -35,14 +34,13 @@ packagemanager install
 
 ## Contributing
 
-
 If you'd like to contribute, please fork the repository and use a feature
 branch. Pull requests are warmly welcome.
 
 ## Links
 
-- Wiki Luhn_algorithm: https://en.wikipedia.org/wiki/Luhn_algorithm
-
+- Shippo API Call Overview: https://goshippo.com/docs/reference/py#overview
+- Shippo Into page for overview: https://goshippo.com/docs/intro/
 
 ## Licensing
 
