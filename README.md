@@ -12,7 +12,7 @@ Please notice that there is both a .docx file and the main function. The .docx f
 ```shell
 git clone https://github.com/hammy414/shippo
 main.py start
-main.py Will show you your shipment info. If you want to change package information, please edit the file to do so. 
+main.py "Will show you your shipment info. If you want to change package information, please edit the file to do so."
 ```
 
 Here you should say what actually happens when you execute the code above.
