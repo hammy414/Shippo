@@ -4,9 +4,12 @@
 > The shippo TSE challange for Joshua Sternfeld - Technology Support Engineer
 
 > I had a lot of fun learning your platform! 
-## Installing / Getting started
 
-Please notice that there is both a .docx file and the main function. The .docx file is for the SQL answers. 
+## Information about challange (SQL)
+
+Please notice that there is a .txt file. The .txt file is for the SQL answers. 
+
+## Installing / Getting started
 
 ```shell
 git clone https://github.com/hammy414/shippo
