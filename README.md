@@ -38,6 +38,7 @@ branch. Pull requests are warmly welcome.
 - Shippo API Call Overview: https://goshippo.com/docs/reference/py#overview
 - Shippo Into page for overview: https://goshippo.com/docs/intro/
 - Shippo Library Install: https://goshippo.com/docs/client-libraries/
+- Shippo Data Flow SQL: https://shippo-static.s3.amazonaws.com/img/illustrations/api-object-flow.png
 
 ## Licensing
 
