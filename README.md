@@ -22,6 +22,8 @@ The main.py file will show you your shipment info. If you want to change package
 
 In order to run shippo, you need to have the library installed. I recommend using pip to easily install that into your directory. Please see below link for the shippo library install. 
 
+You will also need a shippo token, this can be obtained by your dashboard. I used a testing token to do this for free. 
+
 This project I created pulls from a private isolated token. What you need to do is to create a new python file in the same directory called "shippo_secrets". After that create a method on that new file called "test_api_key= "REPLACE_WITH_YOUR_KEY"".
 
 I have included a blank shippo_secrets file for you to use a template. 
