@@ -18,7 +18,7 @@ main.py start
 
 The main.py file will show you your shipment info. If you want to change package information, please edit the file to do so. 
 
-### Initial Configuration
+## Initial Configuration
 
 In order to run shippo, you need to have the library installed. I recommend using pip to easily install that into your directory. Please see below link for the shippo library install. 
 
