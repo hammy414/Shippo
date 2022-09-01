@@ -1,0 +1,45 @@
+import Main
+import shippo
+import shippo_secrets
+import Flask
+test_key = shippo_secrets.test_api_key
+# print(test_key)
+shippo.config.api_key = test_key
+
+
+#####################################
+#Edit this below informtion for your shipment
+address_from = {
+    "name": "Anna Britt",
+    "street1": "520 12th street s",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22202",
+    "country": "US"
+}
+
+address_to = {
+    "name": "Brian Britt",
+    "street1": "703 Draper Road",
+    "city": "Blacksburg",
+    "state": "VA",
+    "zip": "24060",
+    "country": "US"
+}
+
+parcel = {
+    "length": "24",
+    "width": "20",
+    "height": "66",
+    "distance_unit": "in",
+    "weight": "160",
+    "mass_unit": "lb"
+}
+
+
+
+##################################
+
+app = Flask(__name__)
+
+@app.route
