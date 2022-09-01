@@ -10,20 +10,20 @@ shippo.config.api_key = test_key
 #####################################
 #Edit this below informtion for your shipment
 address_from = {
-    "name": "Anna Britt",
-    "street1": "520 12th street s",
-    "city": "Arlington",
-    "state": "VA",
-    "zip": "22202",
+    "name": "John Smith",
+    "street1": "12th street s",
+    "city": "ABC",
+    "state": "ABC",
+    "zip": "111111",
     "country": "US"
 }
 
 address_to = {
-    "name": "Brian Britt",
-    "street1": "703 Draper Road",
-    "city": "Blacksburg",
-    "state": "VA",
-    "zip": "24060",
+    "name": "Jane Doe",
+    "street1": "Draper Road",
+    "city": "ABC",
+    "state": "ABC",
+    "zip": "ABC",
     "country": "US"
 }
 
